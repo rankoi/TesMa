@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">TesMa</string>
+    <string name="title_activity_main">TesMa</string>
+    <string name="package_name">com.noriki.tesma</string>
+    <string name="custom_url_scheme">com.noriki.tesma</string>
+</resources>
